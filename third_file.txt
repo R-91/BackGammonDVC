@@ -1,3 +1,0 @@
-this is my third file added to git map
-
-and its better than second and first file
